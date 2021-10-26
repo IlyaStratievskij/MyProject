@@ -1,0 +1,3 @@
+C:\Desktop\Athletics\GameAthletics\x64\Debug\GameAthletics.exe
+C:\Desktop\Athletics\GameAthletics\x64\Debug\GameAthletics.pdb
+C:\Users\strat\OneDrive\Рабочий стол\Athletics\GameAthletics\x64\Debug\GameAthletics.exe
