@@ -1,0 +1,41 @@
+{% extends 'base.html' %}
+{% load widget_tweaks %}
+{% block content %}
+
+<div class="container-fluid">
+  <div class="row no-gutter">
+    <div class="d-none d-md-flex col-md-4 col-lg-6 bg-image"></div>
+    <div class="col-md-8 col-lg-6">
+      <div class="login d-flex align-items-center py-5">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-9 col-lg-8 mx-auto ">
+              <h1 class="login-heading mb-4">Мой Ежедневник</h1>
+                <h3 class="login-heading mb-4">Добро пожаловать</h3>
+              <form method="post"> {% csrf_token %}
+                <div class="form-label-group ">
+                  {% render_field form.email class="form-control" type="email"%}
+                  <!--<input type="email" id="inputEmail" class="form-control" placeholder="E-Mail Adresse" required autofocus>-->
+                  <label for="inputEmail">E-Mail Адрес</label>
+                  {{form.email.errors}}
+                </div>
+
+                <div class="form-label-group">
+                  {% render_field form.password class="form-control" type="password" %}
+                  <!--<input type="password" id="inputPassword" class="form-control" placeholder="Passwort" required>-->
+                  <label for="inputPassword">Пароль</label>
+                  {{form.password.errors}}
+                </div>
+                <button class="btn btn-lg btn-info btn-block btn-login text-uppercase font-weight-bold mb-2 " type="submit" >Войти</button>
+                  <a href="{% url 'registrieren' %}" class="btn btn-outline-info btn-block btn-login text-uppercase font-weight-bold mb-2"> Зарегистрироваться</a>
+                <div class="text-center ">
+                  <a class="small biruzy" href="{% url 'password_reset' %}">Забыл пароль?</a></div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock content %}
