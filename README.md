@@ -1,2 +1,3 @@
-cd myDiary
-python manage.py runserver
+> cd myDiary
+
+> python manage.py runserver
