@@ -1,0 +1,5 @@
+C:\Users\strat\OneDrive\Рабочий стол\ScanLab1\Util\bin\Release\net6.0\publish\Util.exe
+C:\Users\strat\OneDrive\Рабочий стол\ScanLab1\Util\bin\Release\net6.0\publish\Util.dll
+C:\Users\strat\OneDrive\Рабочий стол\ScanLab1\Util\bin\Release\net6.0\publish\Util.deps.json
+C:\Users\strat\OneDrive\Рабочий стол\ScanLab1\Util\bin\Release\net6.0\publish\Util.runtimeconfig.json
+C:\Users\strat\OneDrive\Рабочий стол\ScanLab1\Util\bin\Release\net6.0\publish\Util.pdb
