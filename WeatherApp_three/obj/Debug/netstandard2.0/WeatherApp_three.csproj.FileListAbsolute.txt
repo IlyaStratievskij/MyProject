@@ -1,0 +1,17 @@
+C:\CW\XamarinTest\WeatherApp_three\WeatherApp_three\obj\Debug\netstandard2.0\WeatherApp_three.csproj.AssemblyReference.cache
+C:\CW\XamarinTest\WeatherApp_three\WeatherApp_three\obj\Debug\netstandard2.0\WeatherApp_three.GeneratedMSBuildEditorConfig.editorconfig
+C:\CW\XamarinTest\WeatherApp_three\WeatherApp_three\bin\Debug\netstandard2.0\WeatherApp_three.deps.json
+C:\CW\XamarinTest\WeatherApp_three\WeatherApp_three\bin\Debug\netstandard2.0\WeatherApp_three.dll
+C:\CW\XamarinTest\WeatherApp_three\WeatherApp_three\bin\Debug\netstandard2.0\ref\WeatherApp_three.dll
+C:\CW\XamarinTest\WeatherApp_three\WeatherApp_three\bin\Debug\netstandard2.0\WeatherApp_three.pdb
+C:\CW\XamarinTest\WeatherApp_three\WeatherApp_three\obj\Debug\netstandard2.0\WeatherApp_three.Properties.Resources.resources
+C:\CW\XamarinTest\WeatherApp_three\WeatherApp_three\obj\Debug\netstandard2.0\WeatherApp_three.csproj.GenerateResource.cache
+C:\CW\XamarinTest\WeatherApp_three\WeatherApp_three\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\CW\XamarinTest\WeatherApp_three\WeatherApp_three\obj\Debug\netstandard2.0\Views\WeatherAppPage.xaml.g.cs
+C:\CW\XamarinTest\WeatherApp_three\WeatherApp_three\obj\Debug\netstandard2.0\WeatherApp_three.AssemblyInfoInputs.cache
+C:\CW\XamarinTest\WeatherApp_three\WeatherApp_three\obj\Debug\netstandard2.0\WeatherApp_three.AssemblyInfo.cs
+C:\CW\XamarinTest\WeatherApp_three\WeatherApp_three\obj\Debug\netstandard2.0\WeatherApp_three.csproj.CoreCompileInputs.cache
+C:\CW\XamarinTest\WeatherApp_three\WeatherApp_three\obj\Debug\netstandard2.0\XamlC.stamp
+C:\CW\XamarinTest\WeatherApp_three\WeatherApp_three\obj\Debug\netstandard2.0\WeatherApp_three.dll
+C:\CW\XamarinTest\WeatherApp_three\WeatherApp_three\obj\Debug\netstandard2.0\ref\WeatherApp_three.dll
+C:\CW\XamarinTest\WeatherApp_three\WeatherApp_three\obj\Debug\netstandard2.0\WeatherApp_three.pdb

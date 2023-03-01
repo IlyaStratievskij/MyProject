@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "8HDRTAIvBwd9aVeHevGHgOOKGXGZyNmU1WqA2VH33hDFKM+FftntAWOXC1rEKb/X/BDzglr6zpnzEhXX6wGo6A==",
+  "success": true,
+  "projectFilePath": "C:\\CW\\XamarinTest\\WeatherApp_three\\WeatherApp_three.iOS\\WeatherApp_three.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\strat\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\strat\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\strat\\.nuget\\packages\\urhosharp\\1.9.67\\urhosharp.1.9.67.nupkg.sha512",
+    "C:\\Users\\strat\\.nuget\\packages\\xamarin.essentials\\1.7.4\\xamarin.essentials.1.7.4.nupkg.sha512",
+    "C:\\Users\\strat\\.nuget\\packages\\xamarin.forms\\5.0.0.2545\\xamarin.forms.5.0.0.2545.nupkg.sha512"
+  ],
+  "logs": []
+}
